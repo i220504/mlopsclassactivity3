@@ -13,7 +13,7 @@ By the end of this activity, you will be able to:
 - Automate data preprocessing, model training, and evaluation using GitHub Actions  
 - Upload trained model artifacts automatically  
 - (Optionally) Build and push Docker containers after successful training  
-
+m
 ---
 
 ## 🧩 Repository Structure
